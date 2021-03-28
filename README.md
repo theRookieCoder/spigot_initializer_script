@@ -1,5 +1,8 @@
 # Spigot initializer script
 ## A script to initialize (create) a new Spigot plugin project
+**THIS SCRIPT HAS ONLY BEEN TESTED ON MACOS. I AM NOT RESPONSIBLE IF YOUR ENTIRE COMPUTER GETS DELETED AFTER YOU RUN THIS ON WINDOWS/LINUX**  
+(I will try fixing this once i get my hands on a Windows computer)  
+  
 TODO (Also caveats I guess?):
 - [ ] Implement a way to select different versions
 - [ ] Implement a way to use '~' instead on /Users/name etc
